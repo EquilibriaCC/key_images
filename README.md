@@ -22,3 +22,4 @@ Command in wallet: import_key_images key_gov
 
 You will see all IN OUT transactions
 
+To import view_key in GUI use key_image_export_GUI as its json file not a binary
