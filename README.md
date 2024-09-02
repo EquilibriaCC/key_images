@@ -10,6 +10,10 @@ DEV wallet address: Tw1XDEVkfVsRFhvjPQJgTjFi4uXDBiMomYeaaaj43SHPSTyLj8nBkdv2KBV8
 
 Dev view key: 7ffeb772829bc3ab917b634a55a67dc8e1c52546bc351c8f77eb3b0902bf3000
 
+Bridge address: Tw1WW1jYkS3144DkXTDQgg6j2fDk28KuDeYdQZb91UvnZ462yRExJz2h7k116wXbRp4JhcYyfb3PabpTuaRX9DiG2U5kGJ6wS
+
+Bridge view key: 922ca28f3e43464c977970973edc2b5f941bcf08ba93be04480824f0bbeebb00
+
 How to:
 
 Copy key_gov in to directory with wallet-cli than
